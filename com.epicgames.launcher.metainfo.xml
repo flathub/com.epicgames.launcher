@@ -53,6 +53,31 @@
     </screenshots>
 
     <releases>
+        <release version="0.115.0" date="2026-11-11">
+            <description>
+                <p>A pending update will now stay visible in the Library while the game or tool is running.</p>
+                <p>On the Unreal Engine page, the counts in Details will now link to the modules and plugins dialog.</p>
+                <p>A partner install that was stuck waiting in the Library could not be ended from its title.</p>
+                <p>An error message sometimes appeared incorrectly when opening Fab.</p>
+                <p>Flicker appeared in Downloads when you reinstalled something while it was being uninstalled.</p>
+            </description>
+        </release>
+        <release version="0.114.0" date="2026-11-10">
+            <description>
+                <p>Installs on a hard disk drive are now up to three times faster.</p>
+                <p>Library search will now match the words you type in any order and ignore punctuation.</p>
+                <p>The Unreal Engine 5.9 Preview is now listed with the Unreal Engine 5 releases.</p>
+                <p>Windows: Notification toasts used to appear even when Do Not Disturb was turned on.</p>
+                <p>Repair could not be run on an installation that had not finished.</p>
+            </description>
+        </release>
+        <release version="0.113.1" date="2026-11-09">
+            <description>
+                <p>On macOS, Store checkout popups will now open in launcher windows.</p>
+                <p>Unreal Engine installs could have displayed the pending update's version rather than the installed build.</p>
+                <p>The previous account's Fab page was not closed when you changed accounts.</p>
+            </description>
+        </release>
         <release version="0.113.0" date="2026-11-06">
             <description>
                 <p>Downloads now pause and wait when the destination drive runs out of space.</p>
