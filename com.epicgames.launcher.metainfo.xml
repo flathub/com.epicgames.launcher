@@ -53,6 +53,16 @@
     </screenshots>
 
     <releases>
+        <release version="0.116.2" date="2026-11-16">
+            <description>
+                <p>A percentage will now be shown while a game is being verified after it finishes downloading.</p>
+                <p>The launcher will now tell you when a drive is full during a download, and you can then resume it by hand.</p>
+                <p>Cloud save downloads cut off partway through could have discarded data they had already downloaded.</p>
+                <p>Keyboard focus in Settings could have been lost when a drill-in section opened or closed.</p>
+                <p>The Library catalog was sometimes missing entries after the first launch.</p>
+                <p>Fab downloads of Unreal Engine content sometimes failed when one download link did not work.</p>
+            </description>
+        </release>
         <release version="0.115.0" date="2026-11-11">
             <description>
                 <p>A pending update will now stay visible in the Library while the game or tool is running.</p>
