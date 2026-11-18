@@ -20,6 +20,11 @@
 
     <launchable type="desktop-id">com.epicgames.launcher.desktop</launchable>
 
+    <categories>
+        <category>Game</category>
+        <category>LauncherStore</category>
+    </categories>
+
     <branding>
         <color type="primary">#26bbff</color>
     </branding>
