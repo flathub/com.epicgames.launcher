@@ -53,6 +53,15 @@
     </screenshots>
 
     <releases>
+        <release version="0.117.0" date="2026-11-17">
+            <description>
+                <p>An option to remove launcher data is now available in the Settings menu on every platform.</p>
+                <p>Linux: The system tray icon will now work in every build of the launcher.</p>
+                <p>When repairs keep failing, the launcher will now tell you that your PC may be damaging files.</p>
+                <p>Downloads could tell you to reconnect a drive when the real issue was a protected install folder.</p>
+                <p>You could appear signed out if you finished browser sign-in after the timeout, or after hitting the 'Back' button in the launcher.</p>
+            </description>
+        </release>
         <release version="0.116.2" date="2026-11-16">
             <description>
                 <p>A percentage will now be shown while a game is being verified after it finishes downloading.</p>
