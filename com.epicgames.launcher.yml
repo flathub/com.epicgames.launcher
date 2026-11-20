@@ -81,8 +81,8 @@ modules:
 
     sources:
       - type: file
-        url: https://content-download-egs.distro.on.epicgames.com/Builds/EGLv2/0.117.0%2Bg19cc56b/Linux/EpicGamesLauncher-x86_64.deb?launcherfilename=EpicGamesLauncher-x86_64.deb
-        sha256: edda78c3501d497918605e52ab0303567e4917fb886b08fe7734871ce881ea08
+        url: https://content-download-egs.distro.on.epicgames.com/Builds/EGLv2/0.120.0%2Bgc4bf6af/Linux/EpicGamesLauncher-x86_64.deb?launcherfilename=EpicGamesLauncher-x86_64.deb
+        sha256: 9d5a8de058f47aac4581c0661879ccd4b68bd54943aa94e8e09db8bb641df109
         dest-filename: EpicGamesLauncher-x86_64.deb
         x-checker-data:
           type: rotating-url
