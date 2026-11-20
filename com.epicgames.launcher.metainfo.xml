@@ -58,6 +58,26 @@
     </screenshots>
 
     <releases>
+        <release version="0.120.0" date="2026-11-20">
+            <description>
+                <p>A downloaded launcher update will now install when your computer is idle.</p>
+                <p>An Uninstall option is now available in the menu for completed items in Downloads.</p>
+                <p>When uninstalling the launcher, you can now choose what gets deleted, with file sizes and progress shown.</p>
+                <p>You can now change the folder directory where a game's files are located.</p>
+                <p>A game could have stayed in a failed state in Downloads after a repair did not complete.</p>
+                <p>Downloads sometimes gave no indication of progress while the launcher was checking files before starting.</p>
+            </description>
+        </release>
+        <release version="0.118.0" date="2026-11-18">
+            <description>
+                <p>A default install location for tools is now available in Settings.</p>
+                <p>A sign-in link is now offered when your browser does not open during sign-in.</p>
+                <p>Hidden or deprecated add-ons will now be hidden in the Library, and new installs of them will be blocked.</p>
+                <p>Store and rewards items in the app menu will now be grouped under a Rewards and balance submenu.</p>
+                <p>A DLC could have stayed on an older version than its main game after the game was updated.</p>
+                <p>Fab downloads were not restored after restarting the launcher and could not be resumed.</p>
+            </description>
+        </release>
         <release version="0.117.0" date="2026-11-17">
             <description>
                 <p>An option to remove launcher data is now available in the Settings menu on every platform.</p>
